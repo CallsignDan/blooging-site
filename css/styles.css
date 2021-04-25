@@ -1,0 +1,20 @@
+body {
+  background-color: brown;
+}
+
+.intro {
+  width: 50%;
+  font-family: tahoma;
+  text-align:end;
+  color: yellowgreen;
+}
+
+.about-me{
+  color: aliceblue;
+  text-align: center;
+}
+
+.middle {
+  color: red;
+  font-size: large;
+}
